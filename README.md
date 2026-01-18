@@ -53,27 +53,6 @@ Since there is no widely accepted English equivalent, this plugin keeps the orig
 ## Dashboard Example
 ![alt text](images/dashboard.png)
 
-## Why not Earned Value Management (EVM)?
-
-Earned Value Management (EVM) is a powerful and widely used method for tracking
-project performance using numerical metrics such as cost and schedule variance.
-
-However, EVM often requires:
-
-* detailed estimates
-* continuous data updates
-* familiarity with EVM-specific concepts and calculations
-
-The Inazuma Line takes a different approach.
-
-Instead of numerical analysis, it focuses on **visual, intuitive understanding**.
-By showing schedule deviations directly on a Gantt chart, it allows users to see
-whether work is ahead of or behind schedule **at a glance**, without complex metrics.
-
-This plugin does not aim to replace EVM.
-It is designed for lightweight planning, personal projects, and situations where
-**clarity and simplicity** matter more than formal analysis.
-
 ## Background
 
 Many task management and Gantt chart tools exist, but very few focus on
