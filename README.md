@@ -90,10 +90,6 @@ yet it is rarely found in tools used in English-speaking communities.
 This plugin was created to bring this traditional Japanese visual progress-tracking method
 into Obsidian.
 
-## Status
-
-🚧 This plugin is under active development.
-
 ## License
 
 MIT
