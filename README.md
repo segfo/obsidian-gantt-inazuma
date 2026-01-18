@@ -1,7 +1,7 @@
 ## TL;DR
 
 [EN](README.md) | [日本語ドキュメントはこちら](README_jp.md)  
-**An Obsidian plugin that visualizes planned vs actual progress on Gantt charts using an Inazuma Line.**
+**Visualize planned vs. actual progress on a Gantt chart with progress lines**
 It helps you instantly see schedule delays and advances at a glance.
 
 ![Gantt chart with Inazuma Line](./images/gantt.png)
@@ -50,7 +50,7 @@ This lightning-like shape makes schedule deviations immediately visible and easy
 Since there is no widely accepted English equivalent, this plugin keeps the original name and explains the concept for international users.
 
 ## Dashboard Example
-![alt text](images\dashboard.png)
+![alt text](images/dashboard.png)
 
 ## Why not Earned Value Management (EVM)?
 
