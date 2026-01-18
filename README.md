@@ -17,6 +17,7 @@ This lightning-like shape makes schedule deviations easy to spot at a glance.
 
 ## Introduction
 
+[Sample Vault](https://github.com/segfo/obsidian-gantt-inazuma/releases/tag/v1)
 This plugin adds an **Inazuma Line** - a *planned vs actual progress line* — to Gantt charts in Obsidian for visual schedule tracking.
 
 The Inazuma Line is a visual technique for managing schedule variance:
